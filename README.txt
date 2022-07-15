@@ -8,3 +8,4 @@ Release 1.2
 Some feature
 Release 1.3
 Some feature
+Release 1.4
